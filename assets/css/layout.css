@@ -1,0 +1,14 @@
+.container{
+	width: 1140px;
+	margin:  auto;
+
+}
+.d-flex{
+	dísplay: flex;
+	flex-wrap: wrap;
+}
+header{
+	background: blue;
+	color: white;
+	padding:  10px;
+}
